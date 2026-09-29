@@ -5,13 +5,15 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Frontend%20Developer%20%E2%80%A2%20Full-Stack%20Builder&fontAlignY=38&desc=React%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js%20%E2%80%A2%20PostgreSQL&descAlignY=58&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Web%20Developer&fontAlignY=40&fontSize=48&desc=Building%20products%20from%20interface%20to%20database&descAlignY=62&descSize=17&animation=fadeIn"
   width="100%"
   alt="Profile banner"
 />
 
+<h2>Frontend Developer • Full-Stack Builder</h2>
+
 <p>
-  Building practical web applications from interface to database.
+  React • TypeScript • Node.js • PostgreSQL • UI/UX
 </p>
 
 <a href="https://github.com/alexzl00">
